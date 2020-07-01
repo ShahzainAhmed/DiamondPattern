@@ -1,2 +1,1 @@
-# Diamond P
-program to create Diamond Pattern.
+# Diamond Pattern in Java.
